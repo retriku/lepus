@@ -1,3 +1,8 @@
 target
 docs-build
 /.direnv/
+
+.vscode
+.metals
+.bloop
+metals.sbt
